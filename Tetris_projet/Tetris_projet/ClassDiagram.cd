@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Blocks">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lFAMBAAQAACACAAAggaAQBMCABhgBAHEQgABCBQhAIM=</HashCode>
+      <FileName>blocks.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cube">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABABAgACAAAAAAAAAAAAABAAAIAAABEABgAQAAgAA=</HashCode>
+      <FileName>cube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grid">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAxQQAGEAKHQgAQEBAAEAAAKAkASAAAAMIABAAQI=</HashCode>
+      <FileName>grid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQBCAABEAAAgABAIAAAAgAAAABAAIAgQAQAAAAAA=</HashCode>
+      <FileName>manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBAAAEAAAAAAAAgAoAAAAIAAABAQQAAAAAAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABCAAAAAAAAAAAEAAAAAAgEEAAAAAAAEAQAAACA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAUAAAAAmAAAAAAAAAgAAAAAAAEICAACAAAAAQ=</HashCode>
+      <FileName>text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
