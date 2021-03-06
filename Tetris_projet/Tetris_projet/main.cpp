@@ -11,7 +11,6 @@ int g_iWindowHeight = 560;
 int g_iGLUTWindowHandle = 0;
 int g_iErrorCode = 0;
 
-
 /*
 * OpenGL Outils
 */
